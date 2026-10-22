@@ -29,7 +29,7 @@
 | ----- | ----- | 
 | Topologi dan IP plan | selesai | 
 | Deklarasi tech stack | selesai | 
-| Slide presentasi (`slides.pdf`) | belum | 
+| Slide presentasi (`slides.pdf`) | selesai | 
 | Hardening checklist dan bukti | Selesai 7, on going 2, pending 3 | 
 | Attack plan Fase 2 | selesai, 3 skenario | 
 | Purple team log | kerangka, diisi Minggu 10-11 | 
