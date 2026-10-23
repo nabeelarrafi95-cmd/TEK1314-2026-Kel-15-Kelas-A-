@@ -15,7 +15,7 @@
 
 **Minggu 1-3, setup.** Instalasi CyberOps VM dan Security Onion di laptop utama (Nabeel). Sempat terkendala resource berat, diselesaikan dengan menggunakan Security Onion versi Netacad (2026-09-10). Instalasi VM backup di laptop Christian dengan penyesuaian alokasi RAM diturunkan menjadi 4GB (2026-09-29). Bukti di `docs/laptop_utama/` dan `docs/laptop_backup/`.
 
-**Minggu 4, topologi dan IP.** Perancangan arsitektur jaringan memisahkan zona Attacker (Internet/WAN), Target, dan Monitoring. Skema IP Address disusun efisien menggunakan metode VLSM (Subnet /24, /29, dan /30). Pemilihan OS & Service menggunakan Kali Linux (Attacker), Security Onion (Monitoring Node), dan Debian 13 Server CLI (Target Server: Port 22, 80/443, 5432, 1883) (2026-09-13). Bukti di [`docs/design/`](docs/design/).
+**Minggu 4, topologi dan IP.** Perancangan arsitektur jaringan memisahkan zona Attacker (Internet/WAN), Target, dan Monitoring. Skema IP Address disusun efisien menggunakan metode VLSM (Subnet /24, /29). Pemilihan OS & Service menggunakan Kali Linux (Attacker), Security Onion (Monitoring Node), dan Debian 13 Server CLI (Target Server: Port 22, 80/443, 5432, 1883) (2026-09-13). Bukti di [`docs/design/`](design/).
 
 **Minggu 5-6, praktikum.** Belum ada tambahan.
 
